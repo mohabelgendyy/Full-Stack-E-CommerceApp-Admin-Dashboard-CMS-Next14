@@ -1,3 +1,13 @@
+![screencapture-e-commerce-payload-8e26543-payloadcms-app-2023-12-19-19_29_59](https://github.com/mohabelgendyy/Full-Stack-E-CommerceApp-Admin-Dashboard-CMS-Next14/assets/141507408/8d9d034c-f36c-42a5-bead-e934bc90d5cd)
+![screencapture-e-commerce-payload-8e26543-payloadcms-app-products-2023-12-19-19_30_16](https://github.com/mohabelgendyy/Full-Stack-E-CommerceApp-Admin-Dashboard-CMS-Next14/assets/141507408/83fc5ac4-b567-42e0-b673-b09066767b4b)
+![screencapture-e-commerce-payload-8e26543-payloadcms-app-login-2023-12-19-19_30_33](https://github.com/mohabelgendyy/Full-Stack-E-CommerceApp-Admin-Dashboard-CMS-Next14/assets/141507408/f8fc2849-d737-49b8-9c18-539629d5df83)
+![screencapture-e-commerce-payload-8e26543-payloadcms-app-create-account-2023-12-19-19_30_44](https://github.com/mohabelgendyy/Full-Stack-E-CommerceApp-Admin-Dashboard-CMS-Next14/assets/141507408/9cb10be4-250d-41a0-9591-9a64c0d7f1e0)
+![screencapture-e-commerce-payload-8e26543-payloadcms-app-recover-password-2023-12-19-19_31_06](https://github.com/mohabelgendyy/Full-Stack-E-CommerceApp-Admin-Dashboard-CMS-Next14/assets/141507408/baa38374-cb0f-4f47-8892-23aab56d4583)
+![screencapture-e-commerce-payload-8e26543-payloadcms-app-products-apple-watch-series-9-solo-loop-aluminum-mindnight-2023-12-19-19_31_28](https://github.com/mohabelgendyy/Full-Stack-E-CommerceApp-Admin-Dashboard-CMS-Next14/assets/141507408/55c76477-38b6-4b30-8626-ff9dda1481fc)
+![screencapture-e-commerce-payload-8e26543-payloadcms-app-cart-2023-12-19-19_31_43](https://github.com/mohabelgendyy/Full-Stack-E-CommerceApp-Admin-Dashboard-CMS-Next14/assets/141507408/512773e0-665a-439f-96e4-1b71349b6624)
+
+
+
 # Payload E-Commerce Template
 
 This is the official [Payload E-Commerce Template](https://github.com/payloadcms/payload/blob/main/templates/ecommerce). Use it to power e-commerce businesses and online stores of all sizes. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
